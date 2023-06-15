@@ -1,0 +1,1 @@
+{"mappings":"YACcA,SAASC,cAAc,qBAEtBD,SAASC,cAAc,IAEtCC,QAAQC,IAAI,S","sources":["src/js/02-timer.js"],"sourcesContent":["const refs = {\n    startBtn: document.querySelector('button[data-start'),\n\n    clockface: document.querySelector('')\n}\nconsole.log(\"Helllo\");"],"names":["document","querySelector","console","log"],"version":3,"file":"02-timer.db00b85d.js.map"}
